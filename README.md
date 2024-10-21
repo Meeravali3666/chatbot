@@ -1,4 +1,3 @@
-Here's an **advanced README** template for your Flask-based chatbot project, with detailed instructions on how to set up the environment, deploy the project, and an overview of its advanced features.
 
 ---
 
